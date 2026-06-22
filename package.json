@@ -1,7 +1,7 @@
 {
   "package_version": 2,
   "name": "rope3d-tools",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": "舒荣森",
   "editor": ">=3.8.0",
   "description": "Cocos Creator 3.8.x 3D 绳索编辑器扩展。支持一键创建 3D 绳索节点，并自动安装 Rope3D 运行时代码模板到项目 assets/rope3d。",
